@@ -8,12 +8,6 @@ Network Monitor Pro
 **نظام مراقبة شبكة متكامل للكشف عن التهديدات وتحليل حركة المرور 
 
 
-![Uploading ‏‏لقطة الشاشة (3).png…]()
-
-
-
-![Uploading ‏‏لقطة الشاشة (4).png…]()
-![Uploading ‏‏لقطة الشاشة (19).png…]()
 
 
 
@@ -21,10 +15,13 @@ Network Monitor Pro
 
 
 
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (3)" src="https://github.com/user-attachments/assets/47a3a7c6-4c3f-4662-a9aa-b2e759835928" />
 
 
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (19)" src="https://github.com/user-attachments/assets/5b26c6f7-fdb0-43b2-bd10-fcf0afffcd86" />
 
-![‏‏لقطة الشاشة (201)](https://github.com/user-attachments/assets/2fc1a901-ace8-4385-981d-6941536bc283)
+![‏‏لقطة الشاشة (201)](https://github.com/user-attachments/assets/2fc1a901-ace8-438<img width="1920" height="1080" alt="‏‏لقطة الشاشة (4)" src="https://github.com/user-attachments/assets/0f8ff424-a845-485e-a2de-51c964a41c4d" />
+5-981d-6941536bc283)
 
 ![‏‏لقطة الشاشة (196)](https://github.com/user-attachments/assets/f371cc16-8d71-4f85-9069-46a1a614f00b)
 
